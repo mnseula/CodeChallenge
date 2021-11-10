@@ -3,12 +3,10 @@ We use code challenges to assess programming skill. You are free to pick from an
 
 * [Simple Todo List](https://github.com/BroadnetEngineering/TodoList "Simple Todo List")
 * [Polling Application](https://github.com/BroadnetEngineering/PollingApp "Polling App")
-* [Text File Manipulation](https://github.com/BroadnetEngineering/TextFiles "Text File Manipulation")
 * [Event Application](https://github.com/BroadnetEngineering/EventApp "Event App")
 * Or, do something else of your choosing. Just follow the rules below and submit your PR to this repo!
 
-### Rules
-* No server-side MVC frameworks (unless you make it)
+### Rules - Not Much!
 * Use MySQL if appropriate, include schema necessary to run your code
 * We want to be able to run your submission, not just look at the code
 
